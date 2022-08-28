@@ -1,8 +1,8 @@
 // @solid
 // import { StatusBar } from 'expo-status-bar';
 // import { StyleSheet, Text, View } from 'react-native';
-import {  View } from '@showtime-xyz/universal.view';
-import {  Text } from '@showtime-xyz/universal.text';
+// import {  View } from '@showtime-xyz/universal.view';
+// import {  Text } from '@showtime-xyz/universal.text';
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
